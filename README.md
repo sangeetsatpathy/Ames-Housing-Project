@@ -39,16 +39,6 @@ This is the main analytical and modeling notebook. Below is an expanded look at 
 | **6. Model Evaluation & Interpretation** | Evaluate on validation/test splits using metrics (RMSE, MAE, maybe R²), compare against baseline model, analyze residuals, check assumptions | Performance metrics, error analysis, diagnostic plots |
 | **7. Deployable Pipeline / Code Organization** | Wrap feature transformations + predictions into a pipeline or modular functions | Reproducibility, code modularity, maintainability |
 | **8. Insights & Business Interpretation** | Translate model coefficients or feature importances into real-world housing market insights (e.g. which features most influence house prices) | Storytelling, domain relevance, stakeholder communication |
-
-### **suggestions.md**
-
-In this file, I reflect on:
-
-- Limitations in modeling and data (e.g. non-linearity, unobserved variables)  
-- Next improvements (ensemble models, feature selection, stacking, more advanced regression)  
-- How this model could be adapted for deployment (e.g. API wrapping, live scoring)  
-- Ideas for adding explainability (SHAP, LIME) or packaged dashboards  
-
 ---
 
 ## 🧠 Core Skills Demonstrated
